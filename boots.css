@@ -1,0 +1,11 @@
+.logo{
+    width: 30%;
+    margin-left: 90px;
+    justify-self: center;
+    align-self: center;
+    max-height: 50vh;
+    border: 1px solid rgb(165, 158, 158);
+}
+
+
+
